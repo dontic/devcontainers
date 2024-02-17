@@ -26,7 +26,7 @@ Every devcontainer is configurable, there are some base extensions that might be
 
 Every folder in this repository is meant for a different system. These are the current available ones:
 
-- `.devcontainer.python` - django, flask or any python script
+- `.devcontainer.django_postgres_redis` - django with a postgres and a redis database
 - `.devcontainer.node` - Vite, React, Astro...
 
 ## Configuration
