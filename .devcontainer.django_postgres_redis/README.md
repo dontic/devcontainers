@@ -25,17 +25,17 @@ Dev Containers: Reopen in Container
 
 # Initial setup
 
-## Install dependencies
+## 1. Install dependencies
 ```
-pipenv install
+pipenv install django
 ```
 
-## Start the environment
+## 2. Start the environment
 ```
 pipenv shell
 ```
 
-## Start django
+## 3. Start django
 ```
 python manage.py runserver
 ```
